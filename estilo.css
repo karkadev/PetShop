@@ -1,0 +1,246 @@
+* {
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.topo {
+    width: 100%;
+    max-width: 800px;
+    padding: 120px 80px;
+}    
+
+.banner {
+    background-image: url('Imagens/Site/Banner.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.logo {
+    width: 30px;
+}
+
+.logotopo img, .name {
+    max-width: 250px;
+    display: inline;
+    text-align: center;
+    color: #3c184e;
+    font-size: 35px;
+    margin: 5px;
+}
+
+.frase {
+    color: #3c184e;
+    font-size: 14px;
+    margin: 0;
+    padding-left: 10px;
+}
+
+.frasebanner {
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #ffffffc4;
+    box-shadow: 0 8px 32px #1f26875e;
+}
+
+.frasebanner h1 {
+    color: #3c184e;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800px;
+    margin: 0;
+    margin-bottom: 40px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.frasebanner p {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.frasebanner a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.frasebanner img {
+    width: 20px;
+}
+
+.serviços {
+    width: 100%;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 80px;
+    padding-right: 80px;
+    max-width: 800px;
+}
+
+.serviços h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 45px;
+}
+
+.listas {
+    max-width: 800px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    color: #3c184e;
+    font-size: 20px;
+}
+
+.listas span {
+    font-style: italic;
+    font-weight: 700;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+.galeriaservicos {
+    max-width: 800px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.imgservicos {
+    padding: 2px;
+    box-shadow: 3px 6px 10px 6px #0000006c;
+    border-radius: 5px;
+}
+
+.redes {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.redes p {
+    max-width: 800px;
+    margin-top: 0;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+.spanredes {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.links img {
+    width: 50px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.marcas {
+    width: 100%;
+    max-width: 800px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.marcas h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 45px;
+}
+
+.galeriamarcas {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.galeriamarcas img {
+    width: 148px;
+    height: 148px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.ondeestamos {
+    width: 100%;
+    max-width: 800px;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.ondeestamos h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 45px;
+}
+
+.ondeestamos p {
+    max-width: 800px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    color: #3c184e;
+    font-size: 20px;
+}
+
+iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.rodape {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #3c184e;
+}
+
+.rodape p {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
